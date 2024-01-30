@@ -1,0 +1,33 @@
+[
+    {
+        "alphabet": "a",
+        "data": [
+            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/blob/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/a/abacus.jpg",
+            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/blob/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/a/aeroplane.jpg",
+            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/blob/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/a/ant.jpg",
+            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/blob/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/a/apple.jpg",
+            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/blob/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/a/arrow.jpg"
+            
+        ]
+    },
+    {
+        "alphabet": "b",
+        "data": [
+            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/tree/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/b/ball.jpg",
+            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/tree/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/b/bat.jpg",
+            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/tree/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/b/bat.jpg",
+            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/tree/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/b/bowl.jpg",
+            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/tree/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/b/bus.jpg"
+        ]
+    },
+    {
+        "alphabet": "c",
+        "data": [
+            "url/banana.png",
+            "url/banana.png",
+            "url/banana.png",
+            "url/banana.png",
+            "url/banana.png"
+        ]
+    }
+]
