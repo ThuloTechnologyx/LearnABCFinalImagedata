@@ -2,32 +2,64 @@
     {
         "alphabet": "a",
         "data": [
-            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/blob/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/a/abacus.jpg",
-            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/blob/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/a/aeroplane.jpg",
-            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/blob/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/a/ant.jpg",
-            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/blob/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/a/apple.jpg",
-            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/blob/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/a/arrow.jpg"
-            
+           "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/a/abacus.jpg",
+           "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/a/aeroplane.jpg",
+           "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/a/ant.jpg",
+           "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/a/apple.jpg",
+           "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/a/arrow.jpg"
         ]
     },
     {
         "alphabet": "b",
         "data": [
-            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/tree/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/b/ball.jpg",
-            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/tree/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/b/bat.jpg",
-            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/tree/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/b/bat.jpg",
-            "https://github.com/ThuloTechnologyx/LearnABCFinalImagedata/tree/f7d0b8d840b761c4d903e46145c902f6bb4f401d/img/b/bowl.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/c533db4fb26c0978646c0c2fa4886f3f19e9caf9/img/b/Bus.jpg"
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/c533db4fb26c0978646c0c2fa4886f3f19e9caf9/img/b/bus.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/c533db4fb26c0978646c0c2fa4886f3f19e9caf9/img/b/ball.jpg" ,
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/c533db4fb26c0978646c0c2fa4886f3f19e9caf9/img/b/bat.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/c533db4fb26c0978646c0c2fa4886f3f19e9caf9/img/b/bear.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/c533db4fb26c0978646c0c2fa4886f3f19e9caf9/img/b/bowl.jpg"
         ]
     },
     {
         "alphabet": "c",
         "data": [
-            "url/banana.png",
-            "url/banana.png",
-            "url/banana.png",
-            "url/banana.png",
-            "url/banana.png"
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/c/camel.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/c/camera.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/c/carrot.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/c/cat.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/c/cow.jpg"
+                   ]
+    },
+    {
+        "alphabet": "d",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/d/diamond.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/d/dog.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/d/donkey.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/d/doghnut.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/d/duck.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "e",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/eagle.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/ear.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/earth.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/egg.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/elephant.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "f",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/eagle.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/ear.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/earth.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/egg.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/elephant.jpg"
+        
         ]
     }
 ]
