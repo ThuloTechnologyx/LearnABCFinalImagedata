@@ -54,12 +54,232 @@
     {
         "alphabet": "f",
         "data": [
-            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/eagle.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/ear.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/earth.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/egg.jpg",
-            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/e/elephant.jpg"
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/f/fan.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/f/fire.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/f/fish.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/f/flute.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/f/frog.jpg"
         
         ]
-    }
+    },
+    {
+        "alphabet": "g",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/g/Goat.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/g/Grapes.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/g/Grl.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/g/Guava.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/g/Gun.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "h",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/h/hammer.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/h/hat.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/h/hen.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/h/hill.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/h/horse.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "i",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/i/ice cream.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/i/igloo.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/i/injection.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/i/ink.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/i/iron.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "j",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/j/jug.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/j/jelly.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/j/jagwar.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/j/jacket.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/j/jackal.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "k",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/k/kangaroo.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/k/key.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/k/kite.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/k/kitten.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/k/knife.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "l",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/l/loaf.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/l/lips.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/l/lion.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/l/lemon.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/l/lamp.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "m",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/m/muffin.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/m/monkey.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/m/milk.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/m/mat.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/m/mango.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "n",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/n/nail.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/n/napkin.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/n/necklace.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/n/noodle.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/n/nut.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "o",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/o/ox.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/o/owl.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/o/oven.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/o/onion.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/o/oil.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "p",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/p/paper.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/p/parrot.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/p/pen.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/p/pig.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/p/pigeon.jpeg"
+        
+        ]
+    },
+    {
+        "alphabet": "q",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/q/queen.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/q/queue.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/q/quiver.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/q/quill.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/q/quilt.jpeg"
+        
+        ]
+    },
+    {
+        "alphabet": "r",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/r/rug.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/r/rose.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/r/rocket.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/r/rat.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/r/rabbit.jpeg"
+        
+        ]
+    },
+    {
+        "alphabet": "s",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/s/sunflower.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/s/sun.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/s/squirrel.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/s/spoon.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/s/scissors.jpeg"
+        
+        ]
+    },
+    {
+        "alphabet": "t",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/t/truck.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/t/tomato.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/t/tiger.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/t/television.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/t/tap.jpeg"
+        
+        ]
+    },
+    {
+        "alphabet": "u",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/u/urchin.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/u/unifrom.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/u/unicorn.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/u/ukele.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/u/ufo.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "v",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/v/veggies.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/v/vase.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/v/van.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/v/vaccum.jpg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/v/Vegetables.jpg"
+        
+        ]
+    },
+    {
+        "alphabet": "W",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/W/worm.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/W/wizard.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/W/windmill.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/W/whale.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/W/watermelon.jpeg"
+        
+        ]
+    },
+    {
+        "alphabet": "X",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/X/xylophone.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/X/xylograph.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/X/xylocarp.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/X/xray.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/X/xerox.jpeg"
+        
+        ]
+    },
+    {
+        "alphabet": "y",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/X/yummy.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/X/yoga.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/X/yellow.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/X/yard.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/X/Yak.jpeg"
+        
+        ]
+    },
+    {
+        "alphabet": "z",
+        "data": [
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/z/Zoo.jpegg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/z/Zombie.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/z/Zip.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/z/Zero.jpeg",
+            "https://raw.githubusercontent.com/ThuloTechnologyx/LearnABCFinalImagedata/suresh/img/z/Zebra.jpeg"
+        
+        ]
+    },
 ]
